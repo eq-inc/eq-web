@@ -1,0 +1,17 @@
+{
+    "name": "eq-web",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": ">= 4.13.3",
+        "karmia-context": "https://github.com/fujimakishouten/karmia-context.git",
+        "karmia-utility": "http://github.com/fujimakishouten/karmia-utility.git",
+        "lodash": ">= 3.10.1",
+        "neo-async": ">= 1.7.1",
+        "proteus-configurator": ">= 1.2.0",
+        "proteus-logger": ">= 1.2.4"
+    },
+    "devDependencies": {
+        "mocha": ">= 2.3.4",
+        "expect.js": ">= 0.3.1"
+    }
+}
