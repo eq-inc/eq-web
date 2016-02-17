@@ -1,17 +1,24 @@
 {
     "name": "eq-web",
     "version": "0.0.1",
+    "description": "Web module for Eq applications",
+    "author": "Kazuma Fujimaki <fujimaki@eq-inc.jp>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eq-inc/eq-web.git"
+    },
+    "homepage": "https://github.com/eq-inc/eq-web",
     "dependencies": {
-        "express": ">= 4.13.3",
-        "karmia-context": "https://github.com/fujimakishouten/karmia-context.git",
-        "karmia-utility": "http://github.com/fujimakishouten/karmia-utility.git",
-        "lodash": ">= 3.10.1",
-        "neo-async": ">= 1.7.1",
-        "proteus-configurator": ">= 1.2.0",
-        "proteus-logger": ">= 1.2.4"
+        "express": ">=4.13.3",
+        "karmia-context": ">=0.2.2",
+        "karmia-utility": ">=0.0.4",
+        "lodash": ">=3.10.1",
+        "neo-async": ">=1.7.1",
+        "proteus-configurator": ">=1.2.0",
+        "proteus-logger": ">=1.2.4"
     },
     "devDependencies": {
-        "mocha": ">= 2.3.4",
-        "expect.js": ">= 0.3.1"
+        "mocha": ">=2.3.4",
+        "expect.js": ">=0.3.1"
     }
 }
