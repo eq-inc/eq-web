@@ -1,6 +1,6 @@
 {
     "name": "eq-web",
-    "version": "0.0.1",
+    "version": "0.0.5",
     "description": "Web module for Eq applications",
     "author": "Kazuma Fujimaki <fujimaki@eq-inc.jp>",
     "repository": {
@@ -10,7 +10,9 @@
     "homepage": "https://github.com/eq-inc/eq-web",
     "dependencies": {
         "express": ">=4.13.3",
+        "eq-session": ">=0.0.2",
         "karmia-context": ">=0.2.2",
+        "karmia-database": ">=0.0.5",
         "karmia-utility": ">=0.0.4",
         "lodash": ">=3.10.1",
         "neo-async": ">=1.7.1",
