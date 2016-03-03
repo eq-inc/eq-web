@@ -1,6 +1,6 @@
 {
     "name": "eq-web",
-    "version": "0.0.6",
+    "version": "0.1.0",
     "description": "Web module for Eq applications",
     "author": "Kazuma Fujimaki <fujimaki@eq-inc.jp>",
     "repository": {
