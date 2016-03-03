@@ -16,6 +16,7 @@
         "karmia-database": ">=0.0.5",
         "karmia-utility": ">=0.0.4",
         "lodash": ">=3.10.1",
+        "msgpack": ">=1.0.2",
         "neo-async": ">=1.7.1",
         "proteus-configurator": ">=1.2.0",
         "proteus-logger": ">=1.2.4"
