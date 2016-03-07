@@ -12,7 +12,7 @@
         "express": ">=4.13.3",
         "eq-cache": ">=1.1.0",
         "eq-session": ">=0.0.2",
-        "eq-user": ">=0.1.1 ",
+        "eq-user": ">=0.2.0",
         "karmia-context": ">=0.2.2",
         "karmia-database": ">=0.0.5",
         "karmia-utility": ">=0.0.4",
