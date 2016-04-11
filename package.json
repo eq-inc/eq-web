@@ -1,6 +1,6 @@
 {
     "name": "eq-web",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "description": "Web module for Eq applications",
     "author": "Kazuma Fujimaki <fujimaki@eq-inc.jp>",
     "repository": {
@@ -11,19 +11,19 @@
     "dependencies": {
         "express": ">=4.13.3",
         "eq-cache": ">=1.1.0",
-        "eq-session": ">=0.0.2",
-        "eq-user": ">=0.2.0",
-        "karmia-context": ">=0.2.2",
-        "karmia-database": ">=0.0.5",
-        "karmia-utility": ">=0.0.4",
-        "lodash": ">=3.10.1",
+        "eq-session": ">=0.0.3",
+        "eq-user": ">=0.2.1",
+        "karmia-context": ">=0.2.3",
+        "karmia-database": ">=0.6.2",
+        "karmia-utility": ">=0.0.7",
+        "lodash": ">=4.9.0",
         "msgpack": ">=1.0.2",
-        "neo-async": ">=1.7.1",
+        "neo-async": ">=1.8.0",
         "proteus-configurator": ">=1.2.0",
         "proteus-logger": ">=1.2.4"
     },
     "devDependencies": {
-        "mocha": ">=2.3.4",
+        "mocha": ">=2.4.5",
         "expect.js": ">=0.3.1"
     }
 }
