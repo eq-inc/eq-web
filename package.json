@@ -18,7 +18,7 @@
         "eq-user": ">=0.2.4",
         "karmia-context": ">=0.3.2",
         "karmia-database": ">=0.7.1",
-        "karmia-utility": ">=v0.1.0",
+        "karmia-utility": ">=0.2.0",
         "lodash": ">=4.11.1",
         "msgpack": ">=1.0.2",
         "neo-async": ">=1.8.1",
