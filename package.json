@@ -1,6 +1,6 @@
 {
     "name": "eq-web",
-    "version": "0.5.2",
+    "version": "0.6.0",
     "description": "Web module for Eq applications",
     "homepage": "https://github.com/eq-inc/eq-web",
     "license": "Apache-2.0",
@@ -15,20 +15,18 @@
         "express": ">=4.13.4",
         "eq-cache": ">=1.1.1",
         "eq-session": ">=0.1.0",
-        "eq-user": ">=0.2.4",
-        "karmia-context": ">=0.3.2",
-        "karmia-database": ">=0.7.1",
-        "karmia-utility": ">=0.2.0",
-        "lodash": ">=4.11.1",
+        "eq-user": ">=0.2.7",
+        "karmia-context": ">=0.4.1",
+        "karmia-database": ">=0.8.0",
+        "karmia-utility": ">=0.5.4",
+        "lodash": ">=4.13.1",
         "msgpack": ">=1.0.2",
-        "neo-async": ">=1.8.1",
-        "passport": ">=0.3.2",
-        "passport-http": ">=0.3.0",
+        "neo-async": ">=1.8.2",
         "proteus-configurator": ">=1.2.0",
         "proteus-logger": ">=1.2.4"
     },
     "devDependencies": {
-        "mocha": ">=2.4.5",
+        "mocha": ">=2.5.2",
         "expect.js": ">=0.3.1"
     }
 }
