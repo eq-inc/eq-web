@@ -14,6 +14,8 @@
     "dependencies": {
         "express": ">=4.13.4",
         "eq-cache": ">=1.1.1",
+        "eq-digest-authentication": ">=0.1.1",
+        "eq-digest-authentication-strategy": ">=0.2.1",
         "eq-session": ">=0.1.0",
         "eq-user": ">=0.2.7",
         "karmia-context": ">=0.4.1",
