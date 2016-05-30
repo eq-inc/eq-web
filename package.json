@@ -1,6 +1,6 @@
 {
     "name": "eq-web",
-    "version": "0.6.0",
+    "version": "0.7.0",
     "description": "Web module for Eq applications",
     "homepage": "https://github.com/eq-inc/eq-web",
     "license": "Apache-2.0",
@@ -20,7 +20,7 @@
         "eq-user": ">=0.2.7",
         "karmia-context": ">=0.4.1",
         "karmia-database": ">=0.8.0",
-        "karmia-utility": ">=0.5.4",
+        "karmia-utility": ">=0.6.0",
         "lodash": ">=4.13.1",
         "msgpack": ">=1.0.2",
         "neo-async": ">=1.8.2",
