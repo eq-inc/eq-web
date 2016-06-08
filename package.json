@@ -1,6 +1,6 @@
 {
     "name": "eq-web",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "description": "Web module for Eq applications",
     "homepage": "https://github.com/eq-inc/eq-web",
     "license": "Apache-2.0",
@@ -17,7 +17,7 @@
         "eq-digest-authentication": ">=0.1.1",
         "eq-digest-authentication-strategy": ">=0.2.1",
         "eq-session": ">=0.1.0",
-        "eq-user": ">=0.2.7",
+        "eq-user": ">=0.2.8",
         "karmia-context": ">=0.4.1",
         "karmia-database": ">=0.8.0",
         "karmia-utility": ">=0.6.0",
