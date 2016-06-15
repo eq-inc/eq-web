@@ -25,7 +25,8 @@
         "msgpack": ">=1.0.2",
         "neo-async": ">=1.8.2",
         "proteus-configurator": ">=1.2.0",
-        "proteus-logger": ">=1.2.4"
+        "proteus-logger": ">=1.2.4",
+        "request-ip": ">=1.2.2"
     },
     "devDependencies": {
         "mocha": ">=2.5.2",
