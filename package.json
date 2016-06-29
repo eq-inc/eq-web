@@ -1,6 +1,6 @@
 {
     "name": "eq-web",
-    "version": "0.8.1",
+    "version": "0.8.2",
     "description": "Web module for Eq applications",
     "homepage": "https://github.com/eq-inc/eq-web",
     "license": "Apache-2.0",
@@ -13,6 +13,7 @@
     "scripts": {},
     "dependencies": {
         "express": ">=4.13.4",
+        "eq-activity": "https://github.com/eq-inc/eq-activity.git",
         "eq-cache": ">=1.1.1",
         "eq-digest-authentication": ">=0.1.1",
         "eq-digest-authentication-strategy": ">=0.2.1",
