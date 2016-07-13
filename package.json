@@ -1,6 +1,6 @@
 {
     "name": "eq-web",
-    "version": "0.8.2",
+    "version": "0.8.3",
     "description": "Web module for Eq applications",
     "homepage": "https://github.com/eq-inc/eq-web",
     "license": "Apache-2.0",
