@@ -12,25 +12,25 @@
     },
     "scripts": {},
     "dependencies": {
-        "express": ">=4.13.4",
+        "express": "^4.16.3",
         "eq-activity": "https://github.com/eq-inc/eq-activity.git",
-        "eq-cache": ">=1.1.1",
-        "eq-digest-authentication": ">=0.1.1",
-        "eq-digest-authentication-strategy": ">=0.2.1",
-        "eq-session": ">=0.1.0",
-        "eq-user": ">=0.2.8",
-        "karmia-context": ">=0.4.1",
+        "eq-cache": "^1.1.1",
+        "eq-digest-authentication": "^0.1.5",
+        "eq-digest-authentication-strategy": "^0.2.4",
+        "eq-session": "^0.1.2",
+        "eq-user": "^0.2.8",
+        "karmia-context": "^0.4.1",
         "karmia-database": "https://github.com/eq-inc/karmia-database-fork.git",
-        "karmia-utility": ">=0.6.0",
-        "lodash": ">=4.13.1",
-        "msgpack": ">=1.0.2",
-        "neo-async": ">=1.8.2",
-        "proteus-configurator": ">=1.2.0",
-        "proteus-logger": ">=1.2.4",
-        "request-ip": ">=1.2.2"
+        "karmia-utility": "^0.6.0",
+        "lodash": "^4.17.5",
+        "msgpack": "^1.0.2",
+        "neo-async": "^2.5.0",
+        "proteus-configurator": "^1.2.0",
+        "proteus-logger": "^1.2.4",
+        "request-ip": "^2.0.2"
     },
     "devDependencies": {
-        "mocha": ">=2.5.2",
-        "expect.js": ">=0.3.1"
+        "mocha": "^5.0.5",
+        "expect.js": "^0.3.1"
     }
 }
